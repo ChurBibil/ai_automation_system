@@ -12,3 +12,4 @@
 - **Backend:** Python 3.10+ (pyTelegramBotAPI / Telebot)
 - **DevOps:** Docker, Docker-compose
 - **Environment:** Управление конфигурациями через python-dotenv
+![Demo](path/to/your/bot.png)
